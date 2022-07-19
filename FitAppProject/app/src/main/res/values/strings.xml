@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FitAppProject</string>
+    <!-- one_fragment -->
+    <string name="one_fragment_1">Description one fragment</string>
+    <string name="one_fragment_2">Days:</string>
+    <!--  -->
+    <string name="one_item_fragment_1">tvTitle</string>
+    <string name="one_item_fragment_2">tvDesc</string>
+</resources>

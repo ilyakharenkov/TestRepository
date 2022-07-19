@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercise">
+        <item>Relax|x15|</item> <!-- 0 -->
+        <item>Bike exercise|30|bike.png</item> <!-- 1 -->
+        <item>Run exercise|30|run.png</item> <!-- 2 -->
+        <item>Hula Hup exercise|30|hula_hup.png</item> <!-- 3 -->
+        <item>Pull ups exercise|x10|pull_ups.png</item> <!-- 4 -->
+        <item>Push ups exercise|x10|push_ups.png</item> <!-- 5 -->
+        <item>Rowing exercise|30|rowing.png</item> <!-- 6 -->
+        <item>Plank exercise|30|plank.png</item> <!-- 7 -->
+        <item>Jump ropes exercise|30|jump_ropes.png</item> <!-- 8 -->
+        <item>Chair exercise|30|exercise_chair.png</item> <!-- 9 -->
+        <item>Kettlebell lifting exercise|x10|kettlebell_lifting.png</item> <!-- 10 -->
+    </string-array>
+    <string-array name="days_exercise">
+        <item>1,0,2,0,3,0,7</item>
+        <item>2,0,4,0,5,0,10</item>
+        <item>8,0,9,0,6,0,9</item>
+        <item>1,0,2,0,3,0,7</item>
+        <item>2,0,4,0,5,0,10</item>
+        <item>8,0,9,0,6,0,9</item>
+    </string-array>
+</resources>
